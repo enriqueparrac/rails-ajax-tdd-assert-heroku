@@ -1,3 +1,5 @@
+https://financetrackerappepc.herokuapp.com
+
 STYLIZED APPLICATION USING BOOTSTRAP, RAILS 4.1.8, RUBY 2.1.5 AND AJAX
 - Search form with Ajax (Asynchronous JavaScript And XML)
 - Authentication with Devise gem
@@ -15,11 +17,11 @@ FINANCE TRACKER APP
 7. Must be mobile friendly, so the styling has to be responsive.
 
 TEST ACCOUNTS
-Email:  user1@email.com
-Password:  user10
+Email: user10@example.com
+Password: user10
 
-Email:  user2@email.com
-Password:  user20
+Email: user20@example.com
+Password: user20
 
-Email:  user3@email.com
-Password:  user30
+Email: user30@example.com
+Password: user30
